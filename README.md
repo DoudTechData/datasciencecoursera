@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data scientist toolbox couirse project Repo
+Data scientist toolbox course project Repo
